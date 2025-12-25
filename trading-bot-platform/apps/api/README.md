@@ -1,4 +1,4 @@
-![CI](https://github.com/artich2021/aman-sharma-spark-multi-broker-platform/actions/workflows/ci-matrix-extended.yml/badge.svg)
+![CI](https://github.com/artich2021/AmanSharmaSpark-Trading-multi-brocker-connect-/actions/workflows/ci-matrix-extended.yml/badge.svg)
 
 # Trading Bot API (apps/api)
 
@@ -22,4 +22,4 @@ Notes
 - Uses in-memory refresh store by default. To enable Redis-backed refresh store set `REDIS_URL`.
 - Configure `MONGO_URL` in env for production; dev mode accepts in-memory DB (if implemented).
 
-Replace `artich2021/aman-sharma-spark-multi-broker-platform` in the CI badge URL with your GitHub owner and repository name to enable the badge.
+Replace `artich2021/AmanSharmaSpark-Trading-multi-brocker-connect-` in the CI badge URL with your GitHub owner and repository name to enable the badge.
